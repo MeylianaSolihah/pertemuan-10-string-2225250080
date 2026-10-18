@@ -41,3 +41,10 @@ Pada pertemuan ini, saya belajar menggunakan berbagai method string untuk member
 
 ## Bantuan
 Saya menggunakan materi perkuliahan sebagai acuan dan bantuan ChatGPT untuk memahami serta menyusun kode program.
+## Catatan Pengujian
+
+Program diuji menggunakan beberapa variasi nama dan kode kelas. Hasil yang diperoleh diperiksa berdasarkan normalisasi nama, format kode kelas, jumlah kata, dan inisial.
+
+## Refleksi
+
+Saya belajar menggunakan method string dan fungsi Python untuk membersihkan serta menormalisasi data teks. Saya juga memahami proses menyimpan perubahan menggunakan Git.
